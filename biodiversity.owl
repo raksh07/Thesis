@@ -1,0 +1,4581 @@
+@prefix ns1: <http://example.org/taxonomy#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:1838422417 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422418 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422419 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422420 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422421 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422422 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422423 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422424 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422425 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422426 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422427 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422428 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422429 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422430 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422431 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422432 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422433 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422434 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422435 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422436 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422437 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422438 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422439 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422440 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422441 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422442 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422443 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422444 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422445 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422446 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422447 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422448 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422449 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422450 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422451 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422452 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422453 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422454 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422455 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422456 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422457 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422458 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422459 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422460 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422461 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422462 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422463 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422464 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422465 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422466 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422467 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422468 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422469 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422470 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422471 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422472 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422473 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422474 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422475 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422476 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422477 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422478 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422479 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422480 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422481 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422482 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422483 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422484 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422485 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422486 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422487 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422488 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422489 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422490 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422491 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422492 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422493 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422494 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422495 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422496 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422497 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422498 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422499 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422500 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422501 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422502 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422503 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422504 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422505 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422506 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422507 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422508 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422509 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422510 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422511 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422512 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422513 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422514 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422515 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422516 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422517 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422518 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422519 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422520 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422521 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422522 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422523 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422524 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422525 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422526 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422527 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422528 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422529 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422530 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422531 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422532 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422533 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422534 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422535 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422536 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422537 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422538 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422539 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422540 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422541 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422542 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422543 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422544 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422545 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422546 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422547 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422548 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422549 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422550 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422551 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422552 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422553 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422554 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422555 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422556 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422557 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422558 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422559 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422560 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422561 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422562 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422563 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422564 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422565 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422566 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422567 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422568 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422569 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422570 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422571 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422572 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422573 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422574 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422575 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422576 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422577 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422578 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422579 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422580 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422581 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422582 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422583 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422584 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422585 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422586 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422587 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422588 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422589 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422590 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422591 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422592 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422593 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422594 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422595 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422596 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422597 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422598 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422599 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422600 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422601 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422602 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422603 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422604 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422605 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422606 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422607 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422608 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422609 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422610 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422611 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422612 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422613 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422614 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422615 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422616 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422617 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422618 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422619 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422620 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422621 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422622 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422623 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422624 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422625 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422626 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422627 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422628 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422629 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422630 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422631 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422632 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422633 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422634 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422635 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422636 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422637 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422638 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422639 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422640 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422641 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422642 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422643 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422644 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422645 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422646 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422647 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422648 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422649 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422650 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422651 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422652 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422653 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422654 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422655 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422656 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422657 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422658 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422659 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422660 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422661 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422662 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422663 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422664 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422665 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422666 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422667 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422668 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422669 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422670 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422671 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422672 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422673 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422674 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422675 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422676 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422677 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422678 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422679 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422680 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422681 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422682 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422683 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422684 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422685 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422686 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422687 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422688 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422689 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422690 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422691 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422692 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422693 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422694 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422695 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422696 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422697 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422698 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422699 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422700 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422701 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422702 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422703 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422704 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422705 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422706 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422707 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422708 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422709 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422710 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422711 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422712 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422713 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422714 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422715 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422716 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422717 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422718 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422719 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422720 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422721 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422722 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422723 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422724 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422725 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422726 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422727 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422728 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422729 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422730 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422731 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422732 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422733 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422734 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422735 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422736 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422737 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422738 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422739 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422740 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422741 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422742 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422743 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422744 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422745 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422746 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422747 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422748 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422749 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422750 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422751 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422752 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422753 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422754 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422755 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422756 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422757 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422758 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422759 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422760 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422761 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422762 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422763 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422764 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422765 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422766 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422767 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422768 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422769 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422770 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422771 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422772 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422773 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422774 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422775 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422776 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422777 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422778 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422779 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422780 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422781 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422782 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422783 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422784 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422785 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422786 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422787 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422788 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422789 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422790 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422791 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422792 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422793 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422794 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422795 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422796 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422797 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422798 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422799 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422800 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422801 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422802 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422803 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422804 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422805 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422806 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422807 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422808 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422809 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422810 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422811 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422812 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422813 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422814 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422815 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422816 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422817 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422818 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422819 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422820 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422821 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422822 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422823 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422824 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422825 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422826 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422827 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422828 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422829 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422830 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422831 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422832 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422833 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422834 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422835 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422836 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422837 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422838 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422839 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422840 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422841 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422842 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422843 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422844 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422845 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422846 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422847 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422848 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422849 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422850 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422851 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422852 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422853 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422854 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422855 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422856 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422857 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422858 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422859 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422860 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422861 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422862 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422863 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422864 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422865 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422866 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422867 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422868 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422869 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422870 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422871 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422872 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422873 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:1838422874 a ns1:gbifID ;
+    ns1:hasdatasetKey ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 .
+
+ns1:hasbasisOfRecord a owl:ObjectProperty .
+
+ns1:hascatalogNumber a owl:ObjectProperty .
+
+ns1:hasclass a owl:ObjectProperty .
+
+ns1:hascollectionCode a owl:ObjectProperty .
+
+ns1:hascoordinatePrecision a owl:ObjectProperty .
+
+ns1:hascoordinateUncertaintyInMeters a owl:ObjectProperty .
+
+ns1:hascountryCode a owl:ObjectProperty .
+
+ns1:hasdatasetKey a owl:ObjectProperty .
+
+ns1:hasdateIdentified a owl:ObjectProperty .
+
+ns1:hasday a owl:ObjectProperty .
+
+ns1:hasdecimalLatitude a owl:ObjectProperty .
+
+ns1:hasdecimalLongitude a owl:ObjectProperty .
+
+ns1:hasdepth a owl:ObjectProperty .
+
+ns1:hasdepthAccuracy a owl:ObjectProperty .
+
+ns1:haselevation a owl:ObjectProperty .
+
+ns1:haselevationAccuracy a owl:ObjectProperty .
+
+ns1:hasestablishmentMeans a owl:ObjectProperty .
+
+ns1:haseventDate a owl:ObjectProperty .
+
+ns1:hasfamily a owl:ObjectProperty .
+
+ns1:hasgenus a owl:ObjectProperty .
+
+ns1:hasidentifiedBy a owl:ObjectProperty .
+
+ns1:hasindividualCount a owl:ObjectProperty .
+
+ns1:hasinfraspecificEpithet a owl:ObjectProperty .
+
+ns1:hasinstitutionCode a owl:ObjectProperty .
+
+ns1:hasissue a owl:ObjectProperty .
+
+ns1:haskingdom a owl:ObjectProperty .
+
+ns1:haslastInterpreted a owl:ObjectProperty .
+
+ns1:haslicense a owl:ObjectProperty .
+
+ns1:haslocality a owl:ObjectProperty .
+
+ns1:hasmediaType a owl:ObjectProperty .
+
+ns1:hasmonth a owl:ObjectProperty .
+
+ns1:hasoccurrenceID a owl:ObjectProperty .
+
+ns1:hasoccurrenceStatus a owl:ObjectProperty .
+
+ns1:hasorder a owl:ObjectProperty .
+
+ns1:hasphylum a owl:ObjectProperty .
+
+ns1:haspublishingOrgKey a owl:ObjectProperty .
+
+ns1:hasrecordNumber a owl:ObjectProperty .
+
+ns1:hasrecordedBy a owl:ObjectProperty .
+
+ns1:hasrightsHolder a owl:ObjectProperty .
+
+ns1:hasscientificName a owl:ObjectProperty .
+
+ns1:hasspecies a owl:ObjectProperty .
+
+ns1:hasspeciesKey a owl:ObjectProperty .
+
+ns1:hasstateProvince a owl:ObjectProperty .
+
+ns1:hastaxonKey a owl:ObjectProperty .
+
+ns1:hastaxonRank a owl:ObjectProperty .
+
+ns1:hastypeStatus a owl:ObjectProperty .
+
+ns1:hasverbatimScientificName a owl:ObjectProperty .
+
+ns1:hasverbatimScientificNameAuthorship a owl:ObjectProperty .
+
+ns1:hasyear a owl:ObjectProperty .
+
+ns1:issue a owl:Class ;
+    rdfs:subClassOf ns1:mediaType .
+
+<http://example.org/taxonomy#%22%28Butler%2C%201896%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Cramer%2C%201775%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Dixey%2C%201915%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Doubleday%2C%201847%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Felder%20%26%20Felder%2C%201861%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Felder%2C%201861%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Felder%2C%201865%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Godart%2C%201819%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28H%EF%BF%BDbner%2C%20%5B1809%5D%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Hewitson%2C%201852%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Hewitson%2C%201853%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Kaye%2C%201919%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Linnaeus%2C%201758%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Linnaeus%2C%201763%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Linnaeus%2C%201764%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Poey%2C%20%5B1853%5D%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22Anteos%20clorinde%20%28Godart%2C%201824%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22Godart%2C%201824%22> .
+
+<http://example.org/taxonomy#%22Anteos%20maerula%20%28Fabricius%2C%201775%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Fabricius%2C%201775%29%22> .
+
+<http://example.org/taxonomy#%22Aphrissa%20statira%20statira%20%28Cramer%2C%201777%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Cramer%2C%201777%29%22> .
+
+<http://example.org/taxonomy#%22Arena%20Road%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Ariapita%20Estate%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Ascia%20monuste%20monuste%20%28Linnaeus%2C%201764%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Linnaeus%2C%201764%29%22> .
+
+<http://example.org/taxonomy#%22Balata%20Hill%2C%20Mayaro%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Barackpore%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Boisduval%2C%201836%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22Botanical%20Gardens%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Butler%2C%201896%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22Butler%2C%201899%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22Cats%20Hill%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Central%20Range%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Cruse%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Diego%20Martin%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Dismorphia%20amphione%20broomeae%20%28Butler%2C%201899%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22Butler%2C%201899%22> .
+
+<http://example.org/taxonomy#%22Enantia%20lina%20acutipennis%20%28Butler%2C%201896%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22Butler%2C%201896%22> .
+
+<http://example.org/taxonomy#%22End%20of%20Chancellor%20Road%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Eurema%20agave%20agave%20%28Cramer%2C%201775%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Cramer%2C%201775%29%22> .
+
+<http://example.org/taxonomy#%22Eurema%20albula%20marginella%20%28Felder%2C%201861%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Felder%2C%201861%29%22> .
+
+<http://example.org/taxonomy#%22Eurema%20arbela%20gratiosa%20%28Doubleday%2C%201847%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Doubleday%2C%201847%29%22> .
+
+<http://example.org/taxonomy#%22Eurema%20daira%20ebriola%20%28Poey%2C%201853%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Poey%2C%20%5B1853%5D%29%22> .
+
+<http://example.org/taxonomy#%22Eurema%20elathea%20vitellina%20%28C.%20Felder%20%26%20R.%20Felder%2C%201861%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Felder%20%26%20Felder%2C%201861%29%22> .
+
+<http://example.org/taxonomy#%22Eurema%20leuce%20thymetis%20%28Boisduval%2C%201836%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22Boisduval%2C%201836%22> .
+
+<http://example.org/taxonomy#%22Fondes%20Amandes%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Forest%20Reserve%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Ganyra%20josephina%20janeta%20%28Dixey%2C%201915%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Dixey%2C%201915%29%22> .
+
+<http://example.org/taxonomy#%22Ganyra%20phaloe%20lamonti%20%28Kaye%2C%201919%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Kaye%2C%201919%29%22> .
+
+<http://example.org/taxonomy#%22Gasparee%20Island%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Glutophrissa%20drusilla%20drusilla%20%28Cramer%2C%201777%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Cramer%2C%201777%29%22> .
+
+<http://example.org/taxonomy#%22Godart%2C%201824%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22Guayaguayare%20Forest%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Guayaguayare%20Road%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Guayaguayare%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Hesperocharis%20nera%20lamonti%20%28Kaye%2C%201920%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22Kaye%2C%201920%22> .
+
+<http://example.org/taxonomy#%22Icacos%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Innis%20Field%2C%20Cat%27s%20Hill%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Inniss%20Road%2C%20Cats%20Hill%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Inniss%2C%20Cats%20Hill%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Itaballia%20demophile%20calydonia%20%28Boisduval%2C%201836%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Boisduval%2C%201836%29%22> .
+
+<http://example.org/taxonomy#%22Itaballia%20pandosia%20pandosia%20%28Hewitson%2C%201853%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Hewitson%2C%201853%29%22> .
+
+<http://example.org/taxonomy#%22Kaye%2C%201920%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22Kings%20Bay%2C%20Tobago%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Kricogonia%20lyside%20%28Godart%2C%201819%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Godart%2C%201819%29%22> .
+
+<http://example.org/taxonomy#%22La%20Laja%20Road%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22La%20Laja%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Lady%20Chancellor%20Road%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Las%20Lomas%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Leptophobia%20aripa%20%28Boisduval%2C%201836%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Boisduval%2C%201836%29%22> .
+
+<http://example.org/taxonomy#%22Leucidia%20brephos%20%28Hubner%2C%201809%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28H%EF%BF%BDbner%2C%20%5B1809%5D%29%22> .
+
+<http://example.org/taxonomy#%22Maloney%20Road%2C%20Mayaro%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Mandillion%2C%20Sangre%20Grande%2C%20Trinidad%2C%20W.I%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Maraval%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Marcas%20Lookout%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Mayaro%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Melete%20lycimnia%20harti%20%28Butler%2C%201896%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Butler%2C%201896%29%22> .
+
+<http://example.org/taxonomy#%22Monceaux%20Bay%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22More%20Avenue%2C%20St.%20Anns%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Parry%20Lands%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Perrhybris%20pamela%20malenka%20%28Hewitson%2C%201852%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Hewitson%2C%201852%29%22> .
+
+<http://example.org/taxonomy#%22Phoebis%20argante%20%28Fabricius%2C%201775%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Fabricius%2C%201775%29%22> .
+
+<http://example.org/taxonomy#%22Phoebis%20philea%20philea%20%28Linnaeus%2C%201763%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Linnaeus%2C%201763%29%22> .
+
+<http://example.org/taxonomy#%22Phoebis%20sennae%20marcellina%20%28Cramer%2C%201777%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Cramer%2C%201777%29%22> .
+
+<http://example.org/taxonomy#%22Point%20Fortin%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Pyrisitia%20leuce%20athalia%20%28Felder%2C%201865%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Felder%2C%201865%29%22> .
+
+<http://example.org/taxonomy#%22Pyrisitia%20proterpia%20%28Fabricius%2C%201775%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Fabricius%2C%201775%29%22> .
+
+<http://example.org/taxonomy#%22Pyrisitia%20venusta%20venusta%20%28Boisduval%2C%201836%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Boisduval%2C%201836%29%22> .
+
+<http://example.org/taxonomy#%22Quare%20Dam%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Queens%20Park%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Quinam%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Rhabdodryas%20trite%20trite%20%28Linnaeus%2C%201758%29%22> ns1:hasverbatimScientificNameAuthorship <http://example.org/taxonomy#%22%28Linnaeus%2C%201758%29%22> .
+
+<http://example.org/taxonomy#%22Rio%20Claro%20Guayaguayare%20Road%2C%20Trinidad%2C%20W%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Rio%20Claro%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22San%20Diego%20Park%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22San%20Souci%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Sans%20Souci%20Estate%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22South%20Sangre%20Grande%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22St.%20Anns%20Ridge%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22St.%20Anns%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22St.%20Augustine%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Union%20Road%2C%20Mayaro%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Wallerfield%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22West%20Trinity%2C%20Trinidad%2C%20W.I.%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#%22Yara%20River%2C%20Blanchiseusse%2C%20Trinidad%2C%20W.I%22> ns1:hasstateProvince ns1:nan .
+
+<http://example.org/taxonomy#-60.55> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-60.997883> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.0> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.01> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.049> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.07> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.09381> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.1> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.12> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.13> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.15> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.18> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.2> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.214394> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.216447> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.216579> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.250253> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.26> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.29> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.32175> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.35> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.399493> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.4026> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.468371> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.501708> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.503335> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.503353> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.509694> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.512155> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.515244> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.52> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.54> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.550429> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.639239> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.65> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.655156> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.672097> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+<http://example.org/taxonomy#-61.9052> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+ns1:1 ns1:haspublishingOrgKey ns1:954e32db-634d-4d5f-908c-3d14c961b097 .
+
+ns1:10.0588 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.9052> .
+
+ns1:10.074053 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.509694> .
+
+ns1:10.11 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.15> .
+
+ns1:10.168539 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.672097> .
+
+ns1:10.169395 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.639239> .
+
+ns1:10.182296 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.216447> .
+
+ns1:10.182426 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.216579> .
+
+ns1:10.195 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.4026> .
+
+ns1:10.21 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.07> .
+
+ns1:10.238937 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.09381> .
+
+ns1:10.25 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.0> .
+
+ns1:10.27 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.01> .
+
+ns1:10.303 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.049> .
+
+ns1:10.39 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.18> .
+
+ns1:10.410765 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.250253> .
+
+ns1:10.5 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.2> .
+
+ns1:10.53641 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.32175> .
+
+ns1:10.57 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.26> .
+
+ns1:10.59 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.12>,
+        <http://example.org/taxonomy#-61.13> .
+
+ns1:10.6 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.1> .
+
+ns1:10.62137 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.214394> .
+
+ns1:10.641521 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.399493> .
+
+ns1:10.66 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.52>,
+        <http://example.org/taxonomy#-61.65> .
+
+ns1:10.665705 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.655156> .
+
+ns1:10.669965 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.515244> .
+
+ns1:10.674836 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.512155> .
+
+ns1:10.68 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.51> .
+
+ns1:10.683953 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.503353> .
+
+ns1:10.684029 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.503335> .
+
+ns1:10.686048 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.501708> .
+
+ns1:10.688569 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.550429> .
+
+ns1:10.69 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.51> .
+
+ns1:10.72 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.29> .
+
+ns1:10.73 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.54> .
+
+ns1:10.762375 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.468371> .
+
+ns1:10.8 ns1:hasdecimalLongitude <http://example.org/taxonomy#-61.35> .
+
+ns1:10.833618 ns1:hasdecimalLongitude <http://example.org/taxonomy#-60.997883> .
+
+ns1:11.25 ns1:hasdecimalLongitude <http://example.org/taxonomy#-60.55> .
+
+ns1:1919653 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1919937 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1920461 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1920571 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1920579 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1920691 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1920803 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:1927-05-15T00%3A00%3A00 ns1:hasday ns1:15.0 .
+
+ns1:1927-08-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1932-06-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1932.0 ns1:hastaxonKey ns1:1919128 .
+
+ns1:1937-08-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1937-09-30T00%3A00%3A00 ns1:hasday ns1:30.0 .
+
+ns1:1947-11-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1947.0 ns1:hastaxonKey ns1:1920262 .
+
+ns1:1954-06-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1954-07-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1954-09-20T00%3A00%3A00 ns1:hasday ns1:20.0 .
+
+ns1:1954-10-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1956-08-31T00%3A00%3A00 ns1:hasday ns1:31.0 .
+
+ns1:1956.0 ns1:hastaxonKey ns1:8866059 .
+
+ns1:1957-07-20T00%3A00%3A00 ns1:hasday ns1:20.0 .
+
+ns1:1957-09-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1957-09-30T00%3A00%3A00 ns1:hasday ns1:30.0 .
+
+ns1:1958-08-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1958.0 ns1:hastaxonKey ns1:1919282,
+        ns1:5137839 .
+
+ns1:1959-08-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1959.0 ns1:hastaxonKey ns1:1919282 .
+
+ns1:1960-06-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1960-06-26T00%3A00%3A00 ns1:hasday ns1:26.0 .
+
+ns1:1960-06-27T00%3A00%3A00 ns1:hasday ns1:27.0 .
+
+ns1:1960-07-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1960-07-05T00%3A00%3A00 ns1:hasday ns1:5.0 .
+
+ns1:1960-07-17T00%3A00%3A00 ns1:hasday ns1:17.0 .
+
+ns1:1961-02-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1961-07-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1961-07-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1961-07-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1961-07-13T00%3A00%3A00 ns1:hasday ns1:13.0 .
+
+ns1:1961-08-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1961-09-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1961-09-25T00%3A00%3A00 ns1:hasday ns1:25.0 .
+
+ns1:1961-11-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1961-12-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1962-08-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1962-08-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1962-10-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1963-01-09T00%3A00%3A00 ns1:hasday ns1:9.0 .
+
+ns1:1963-01-17T00%3A00%3A00 ns1:hasday ns1:17.0 .
+
+ns1:1963-02-09T00%3A00%3A00 ns1:hasday ns1:9.0 .
+
+ns1:1963-04-10T00%3A00%3A00 ns1:hasday ns1:10.0 .
+
+ns1:1963-07-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1963-07-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1963-08-27T00%3A00%3A00 ns1:hasday ns1:27.0 .
+
+ns1:1963-09-10T00%3A00%3A00 ns1:hasday ns1:10.0 .
+
+ns1:1963-12-13T00%3A00%3A00 ns1:hasday ns1:13.0 .
+
+ns1:1963-12-29T00%3A00%3A00 ns1:hasday ns1:29.0 .
+
+ns1:1964-05-03T00%3A00%3A00 ns1:hasday ns1:3.0 .
+
+ns1:1964-07-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1964-07-10T00%3A00%3A00 ns1:hasday ns1:10.0 .
+
+ns1:1964-07-15T00%3A00%3A00 ns1:hasday ns1:15.0 .
+
+ns1:1964-07-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1964-08-14T00%3A00%3A00 ns1:hasday ns1:14.0 .
+
+ns1:1964-10-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1964-10-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1964-10-20T00%3A00%3A00 ns1:hasday ns1:20.0 .
+
+ns1:1965-01-22T00%3A00%3A00 ns1:hasday ns1:22.0 .
+
+ns1:1965-01-26T00%3A00%3A00 ns1:hasday ns1:26.0 .
+
+ns1:1965-01-31T00%3A00%3A00 ns1:hasday ns1:31.0 .
+
+ns1:1965-02-23T00%3A00%3A00 ns1:hasday ns1:23.0 .
+
+ns1:1965-04-17T00%3A00%3A00 ns1:hasday ns1:17.0 .
+
+ns1:1965-06-02T00%3A00%3A00 ns1:hasday ns1:2.0 .
+
+ns1:1965-06-12T00%3A00%3A00 ns1:hasday ns1:12.0 .
+
+ns1:1965-07-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1965-08-12T00%3A00%3A00 ns1:hasday ns1:12.0 .
+
+ns1:1965-08-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1965-08-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1965-09-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1965-09-02T00%3A00%3A00 ns1:hasday ns1:2.0 .
+
+ns1:1965-09-14T00%3A00%3A00 ns1:hasday ns1:14.0 .
+
+ns1:1965-09-23T00%3A00%3A00 ns1:hasday ns1:23.0 .
+
+ns1:1965-09-25T00%3A00%3A00 ns1:hasday ns1:25.0 .
+
+ns1:1965-09-28T00%3A00%3A00 ns1:hasday ns1:28.0 .
+
+ns1:1965-11-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1965-11-23T00%3A00%3A00 ns1:hasday ns1:23.0 .
+
+ns1:1965-11-25T00%3A00%3A00 ns1:hasday ns1:25.0 .
+
+ns1:1966-01-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1966-01-27T00%3A00%3A00 ns1:hasday ns1:27.0 .
+
+ns1:1966-03-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1966-03-09T00%3A00%3A00 ns1:hasday ns1:9.0 .
+
+ns1:1966-04-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1966-05-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1966-05-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1966-06-01T00%3A00%3A00 ns1:hasday ns1:1.0 .
+
+ns1:1966-06-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1966-06-27T00%3A00%3A00 ns1:hasday ns1:27.0 .
+
+ns1:1966-07-13T00%3A00%3A00 ns1:hasday ns1:13.0 .
+
+ns1:1966-07-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1966-07-30T00%3A00%3A00 ns1:hasday ns1:30.0 .
+
+ns1:1966-08-13T00%3A00%3A00 ns1:hasday ns1:13.0 .
+
+ns1:1966-08-31T00%3A00%3A00 ns1:hasday ns1:31.0 .
+
+ns1:1966-09-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1966-09-10T00%3A00%3A00 ns1:hasday ns1:10.0 .
+
+ns1:1966-09-24T00%3A00%3A00 ns1:hasday ns1:24.0 .
+
+ns1:1966-10-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1966-10-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1966-11-21T00%3A00%3A00 ns1:hasday ns1:21.0 .
+
+ns1:1966-12-09T00%3A00%3A00 ns1:hasday ns1:9.0 .
+
+ns1:1966-12-11T00%3A00%3A00 ns1:hasday ns1:11.0 .
+
+ns1:1967-01-22T00%3A00%3A00 ns1:hasday ns1:22.0 .
+
+ns1:1967-01-25T00%3A00%3A00 ns1:hasday ns1:25.0 .
+
+ns1:1967-01-27T00%3A00%3A00 ns1:hasday ns1:27.0 .
+
+ns1:1967-01-28T00%3A00%3A00 ns1:hasday ns1:28.0 .
+
+ns1:1967-01-29T00%3A00%3A00 ns1:hasday ns1:29.0 .
+
+ns1:1967-02-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1967-05-11T00%3A00%3A00 ns1:hasday ns1:11.0 .
+
+ns1:1967-06-17T00%3A00%3A00 ns1:hasday ns1:17.0 .
+
+ns1:1967-07-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1967-07-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1967-07-13T00%3A00%3A00 ns1:hasday ns1:13.0 .
+
+ns1:1967-07-15T00%3A00%3A00 ns1:hasday ns1:15.0 .
+
+ns1:1967-07-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1967-09-18T00%3A00%3A00 ns1:hasday ns1:18.0 .
+
+ns1:1967-11-30T00%3A00%3A00 ns1:hasday ns1:30.0 .
+
+ns1:1967-12-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1967-12-07T00%3A00%3A00 ns1:hasday ns1:7.0 .
+
+ns1:1968-01-06T00%3A00%3A00 ns1:hasday ns1:6.0 .
+
+ns1:1968-05-25T00%3A00%3A00 ns1:hasday ns1:25.0 .
+
+ns1:1968-07-05T00%3A00%3A00 ns1:hasday ns1:5.0 .
+
+ns1:1968-08-12T00%3A00%3A00 ns1:hasday ns1:12.0 .
+
+ns1:1969-03-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1969-11-08T00%3A00%3A00 ns1:hasday ns1:8.0 .
+
+ns1:1971-02-15T00%3A00%3A00 ns1:hasday ns1:15.0 .
+
+ns1:1971-09-15T00%3A00%3A00 ns1:hasday ns1:15.0 .
+
+ns1:1972-01-15T00%3A00%3A00 ns1:hasday ns1:15.0 .
+
+ns1:1972.0 ns1:hastaxonKey ns1:1919646,
+        ns1:5137816 .
+
+ns1:1973-08-31T00%3A00%3A00 ns1:hasday ns1:31.0 .
+
+ns1:1973-12-12T00%3A00%3A00 ns1:hasday ns1:12.0 .
+
+ns1:2023-09-07T04%3A54%3A47.235Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.266Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.267Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.268Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.269Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.270Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.271Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.272Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.273Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.274Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.275Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.276Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.277Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.278Z ns1:hasmediaType ns1:nan .
+
+ns1:2023-09-07T04%3A54%3A47.279Z ns1:hasmediaType ns1:nan .
+
+ns1:24.0 ns1:hasmonth ns1:9.0 .
+
+ns1:5137540 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN .
+
+ns1:954e32db-634d-4d5f-908c-3d14c961b097 ns1:hasdecimalLatitude ns1:10.0588,
+        ns1:10.074053,
+        ns1:10.11,
+        ns1:10.168539,
+        ns1:10.169395,
+        ns1:10.182296,
+        ns1:10.182426,
+        ns1:10.195,
+        ns1:10.21,
+        ns1:10.238937,
+        ns1:10.25,
+        ns1:10.27,
+        ns1:10.303,
+        ns1:10.39,
+        ns1:10.410765,
+        ns1:10.5,
+        ns1:10.53641,
+        ns1:10.57,
+        ns1:10.59,
+        ns1:10.6,
+        ns1:10.62137,
+        ns1:10.641521,
+        ns1:10.66,
+        ns1:10.665705,
+        ns1:10.669965,
+        ns1:10.674836,
+        ns1:10.68,
+        ns1:10.683953,
+        ns1:10.684029,
+        ns1:10.686048,
+        ns1:10.688569,
+        ns1:10.69,
+        ns1:10.72,
+        ns1:10.73,
+        ns1:10.762375,
+        ns1:10.8,
+        ns1:10.833618,
+        ns1:11.25 .
+
+ns1:Anteos ns1:hasspecies ns1:Anteos%20clorinde,
+        ns1:Anteos%20maerula .
+
+ns1:Anteos%20clorinde ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Anteos%20clorinde%20%28Godart%2C%201824%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Anteos%20clorinde%20%28Godart%2C%201824%29%22> .
+
+ns1:Anteos%20maerula ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Anteos%20maerula%20%28Fabricius%2C%201775%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Anteos%20maerula%20%28Fabricius%2C%201775%29%22> .
+
+ns1:Aphrissa ns1:hasspecies ns1:Aphrissa%20statira .
+
+ns1:Aphrissa%20statira ns1:hasinfraspecificEpithet ns1:statira .
+
+ns1:Aphrissa%20statira%20statira ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Aphrissa%20statira%20statira%20%28Cramer%2C%201777%29%22> .
+
+ns1:Arthropoda ns1:hasclass ns1:Insecta .
+
+ns1:Ascia ns1:hasspecies ns1:Ascia%20monuste .
+
+ns1:Ascia%20monuste ns1:hasinfraspecificEpithet ns1:monuste .
+
+ns1:Ascia%20monuste%20monuste ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Ascia%20monuste%20monuste%20%28Linnaeus%2C%201764%29%22> .
+
+ns1:BBC.1632 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1633 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1634 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1635 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1636 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1639 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1640 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1641 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1642 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1643 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1644 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1645 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1646 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1647 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1648 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1649 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1650 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1651 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1652 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1653 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1654 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1655 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1656 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1657 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1658 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1659 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1660 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1661 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1663 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1664 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1665 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1666 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1667 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1668 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1669 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1670 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1671 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1672 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1673 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1674 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1675 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1676 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1677 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1678 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1679 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1680 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1681 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1682 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1683 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1685 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1686 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1687 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1688 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1689 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1690 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1691 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1692 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1693 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1694 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1695 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1696 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1697 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1698 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1699 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1700 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1703 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1704 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1705 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1706 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1707 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1708 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1709 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1710 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1711 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1714 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1715 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1716 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1717 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1718 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1719 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1720 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1721 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1722 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1723 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1724 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1725 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1726 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1727 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1728 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1729 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1730 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1731 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1732 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1733 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1734 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1735 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1736 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1737 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1738 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1739 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1740 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1741 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1742 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1743 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1748 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1749 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1750 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1751 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1752 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1755 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1756 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1757 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1758 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1759 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1760 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1761 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1762 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1763 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1764 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1765 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1766 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1767 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1768 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1769 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1770 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1771 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1772 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1773 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1775 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1776 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1777 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1778 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1779 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1780 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1781 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1782 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1783 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1784 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1785 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1786 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1787 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1788 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1789 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1790 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1791 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1793 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1794 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1795 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1796 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1797 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1799 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1800 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1801 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1802 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1803 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1804 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1805 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1806 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1807 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1808 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1809 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1810 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1811 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1812 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1813 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1814 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1815 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1816 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1817 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1818 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1819 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1820 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1821 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1822 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1823 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1824 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1825 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1827 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1828 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1829 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1830 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1831 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1832 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1833 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1834 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1835 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1836 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1837 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1838 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1839 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1840 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1841 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1842 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1844 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1845 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1846 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1847 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1848 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1849 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1850 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1851 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1852 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1853 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1854 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1855 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1856 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1857 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1858 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1860 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1861 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1862 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1863 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1864 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1865 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1866 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1867 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1868 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1869 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1870 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1871 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1872 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1874 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1875 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1876 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1877 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1878 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1879 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1880 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1881 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1882 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1883 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1884 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1885 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1886 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1887 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1889 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1890 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1891 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1892 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1893 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1894 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1895 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1897 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1898 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1899 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1900 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1901 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1902 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1903 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1904 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1908 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1909 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1910 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1911 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1912 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1913 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1914 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1916 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1917 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1918 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1919 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1920 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1921 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1922 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1923 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1924 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1925 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1926 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1927 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1928 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1929 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1930 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1931 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1932 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1933 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1934 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1935 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1936 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1937 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1940 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1941 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1942 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1943 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1944 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1945 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1946 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1947 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1948 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1949 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1950 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1951 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1952 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1953 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1954 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1955 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1957 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1958 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1959 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1960 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1961 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1962 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1963 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1964 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1965 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1966 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1967 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1968 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1969 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1970 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1971 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1972 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1973 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1974 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1975 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1978 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1979 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1980 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1981 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1982 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1983 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1985 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1986 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1987 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1988 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1989 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1990 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1991 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1992 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1993 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1994 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1995 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1996 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1997 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1998 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.1999 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2000 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2001 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2002 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2003 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2004 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2005 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2006 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2007 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2008 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2009 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2010 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2011 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2012 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2013 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2014 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2015 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2016 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2017 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2018 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2019 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2020 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2021 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2022 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2023 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2024 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2025 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2026 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2027 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2028 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2029 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2031 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2032 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2033 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2034 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2035 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2036 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2038 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2039 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2040 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2041 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2042 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2043 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2044 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2045 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2046 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2048 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2049 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2050 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2051 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2052 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2053 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2054 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2055 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2056 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2057 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2058 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2061 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2062 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2063 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2064 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2065 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2066 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2067 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2068 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2069 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2070 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2071 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2072 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2073 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2074 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2075 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2076 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2077 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2078 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2079 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2080 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2081 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2083 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2084 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2085 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2086 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2087 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2088 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2090 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2091 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2092 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2093 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2094 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2096 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2097 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2098 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2099 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2100 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2101 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2102 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2103 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2104 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2105 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2106 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2107 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2108 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2109 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2110 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2112 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2113 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2114 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2115 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2116 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2117 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2118 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2119 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2120 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2121 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2122 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2123 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2124 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2125 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2126 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2129 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2130 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2131 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2132 ns1:haskingdom ns1:Animalia .
+
+ns1:BBC.2133 ns1:haskingdom ns1:Animalia .
+
+ns1:CC_BY_4_0 ns1:hasrightsHolder ns1:nan .
+
+ns1:Dismorphia ns1:hasspecies ns1:Dismorphia%20amphione .
+
+ns1:Dismorphia%20amphione ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Dismorphia%20amphione%20%28Cramer%2C%201779%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Dismorphia%20amphione%20broomeae%20%28Butler%2C%201899%29%22> .
+
+ns1:Enantia ns1:hasspecies ns1:Enantia%20lina .
+
+ns1:Enantia%20lina ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Enantia%20lina%20%28Herbst%2C%201792%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Enantia%20lina%20acutipennis%20%28Butler%2C%201896%29%22> .
+
+ns1:Eurema ns1:hasspecies ns1:Eurema%20agave,
+        ns1:Eurema%20albula,
+        ns1:Eurema%20arbela,
+        ns1:Eurema%20daira,
+        ns1:Eurema%20elathea .
+
+ns1:Eurema%20agave ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Eurema%20agave%20%28Cramer%2C%201775%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Eurema%20agave%20agave%20%28Cramer%2C%201775%29%22> .
+
+ns1:Eurema%20albula ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Eurema%20albula%20%28Cramer%2C%201775%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Eurema%20albula%20marginella%20%28Felder%2C%201861%29%22> .
+
+ns1:Eurema%20arbela ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Eurema%20arbela%20Geyer%2C%201832 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Eurema%20arbela%20gratiosa%20%28Doubleday%2C%201847%29%22> .
+
+ns1:Eurema%20daira ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Eurema%20daira%20%28Godart%2C%201819%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Eurema%20daira%20ebriola%20%28Poey%2C%201853%29%22> .
+
+ns1:Eurema%20elathea ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Eurema%20elathea%20%28Cramer%2C%201777%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Eurema%20elathea%20vitellina%20%28C.%20Felder%20%26%20R.%20Felder%2C%201861%29%22> .
+
+ns1:Eurema%20leuce%20%28Boisduval%2C%201836%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Eurema%20leuce%20thymetis%20%28Boisduval%2C%201836%29%22> .
+
+ns1:Ganyra ns1:hasspecies ns1:Ganyra%20josephina,
+        ns1:Ganyra%20phaloe .
+
+ns1:Ganyra%20josephina ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Ganyra%20josephina%20%28Godart%2C%201819%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Ganyra%20josephina%20janeta%20%28Dixey%2C%201915%29%22> .
+
+ns1:Ganyra%20phaloe ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Ganyra%20phaloe%20%28Godart%2C%201819%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Ganyra%20phaloe%20lamonti%20%28Kaye%2C%201919%29%22> .
+
+ns1:Glutophrissa ns1:hasspecies ns1:Glutophrissa%20drusilla .
+
+ns1:Glutophrissa%20drusilla ns1:hasinfraspecificEpithet ns1:drusilla .
+
+ns1:Glutophrissa%20drusilla%20drusilla ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Glutophrissa%20drusilla%20drusilla%20%28Cramer%2C%201777%29%22> .
+
+ns1:Hesperocharis ns1:hasspecies ns1:Hesperocharis%20nera .
+
+ns1:Hesperocharis%20nera ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Hesperocharis%20nera%20%28Hewitson%2C%201852%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Hesperocharis%20nera%20lamonti%20%28Kaye%2C%201920%29%22> .
+
+ns1:Insecta ns1:hasorder ns1:Lepidoptera .
+
+ns1:Itaballia ns1:hasspecies ns1:Itaballia%20demophile,
+        ns1:Itaballia%20pandosia .
+
+ns1:Itaballia%20demophile ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Itaballia%20demophile%20%28Linnaeus%2C%201763%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Itaballia%20demophile%20calydonia%20%28Boisduval%2C%201836%29%22> .
+
+ns1:Itaballia%20pandosia ns1:hasinfraspecificEpithet ns1:pandosia .
+
+ns1:Itaballia%20pandosia%20pandosia ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Itaballia%20pandosia%20pandosia%20%28Hewitson%2C%201853%29%22> .
+
+ns1:Kricogonia ns1:hasspecies ns1:Kricogonia%20lyside .
+
+ns1:Kricogonia%20lyside ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Kricogonia%20lyside%20%28Godart%2C%201819%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Kricogonia%20lyside%20%28Godart%2C%201819%29%22> .
+
+ns1:Lepidoptera ns1:hasfamily ns1:Pieridae .
+
+ns1:Leptophobia ns1:hasspecies ns1:Leptophobia%20aripa .
+
+ns1:Leptophobia%20aripa ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Leptophobia%20aripa%20%28Boisduval%2C%201836%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Leptophobia%20aripa%20%28Boisduval%2C%201836%29%22> .
+
+ns1:Leucidia ns1:hasspecies ns1:Leucidia%20brephos .
+
+ns1:Leucidia%20brephos ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Leucidia%20brephos%20%28H%C3%BCbner%2C%201809%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Leucidia%20brephos%20%28Hubner%2C%201809%29%22> .
+
+ns1:Melete ns1:hasspecies ns1:Melete%20lycimnia .
+
+ns1:Melete%20lycimnia ns1:hasinfraspecificEpithet ns1:harti .
+
+ns1:Melete%20lycimnia%20harti ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Melete%20lycimnia%20harti%20%28Butler%2C%201896%29%22> .
+
+ns1:PRESENT ns1:hasindividualCount ns1:1 .
+
+ns1:Perrhybris ns1:hasspecies ns1:Perrhybris%20pamela .
+
+ns1:Perrhybris%20pamela ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Perrhybris%20pamela%20%28Stoll%2C%201780%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Perrhybris%20pamela%20malenka%20%28Hewitson%2C%201852%29%22> .
+
+ns1:Phoebis ns1:hasspecies ns1:Phoebis%20argante,
+        ns1:Phoebis%20philea,
+        ns1:Phoebis%20sennae .
+
+ns1:Phoebis%20argante ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Phoebis%20argante%20%28Fabricius%2C%201775%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Phoebis%20argante%20%28Fabricius%2C%201775%29%22> .
+
+ns1:Phoebis%20philea ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Phoebis%20philea%20%28Linnaeus%2C%201763%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Phoebis%20philea%20philea%20%28Linnaeus%2C%201763%29%22> .
+
+ns1:Phoebis%20sennae ns1:hasinfraspecificEpithet ns1:marcellina .
+
+ns1:Phoebis%20sennae%20marcellina%20%28Cramer%2C%201777%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Phoebis%20sennae%20marcellina%20%28Cramer%2C%201777%29%22> .
+
+ns1:Pieridae ns1:hasgenus ns1:Anteos,
+        ns1:Aphrissa,
+        ns1:Ascia,
+        ns1:Dismorphia,
+        ns1:Enantia,
+        ns1:Eurema,
+        ns1:Ganyra,
+        ns1:Glutophrissa,
+        ns1:Hesperocharis,
+        ns1:Itaballia,
+        ns1:Kricogonia,
+        ns1:Leptophobia,
+        ns1:Leucidia,
+        ns1:Melete,
+        ns1:Perrhybris,
+        ns1:Phoebis,
+        ns1:Pyrisitia,
+        ns1:Rhabdodryas .
+
+ns1:Pyrisitia ns1:hasspecies ns1:Pyrisitia%20leuce,
+        ns1:Pyrisitia%20proterpia,
+        ns1:Pyrisitia%20venusta .
+
+ns1:Pyrisitia%20leuce ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Pyrisitia%20leuce%20%28Boisduval%2C%201836%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Pyrisitia%20leuce%20athalia%20%28Felder%2C%201865%29%22> .
+
+ns1:Pyrisitia%20proterpia ns1:hasinfraspecificEpithet ns1:nan .
+
+ns1:Pyrisitia%20proterpia%20%28Fabricius%2C%201775%29 ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Pyrisitia%20proterpia%20%28Fabricius%2C%201775%29%22> .
+
+ns1:Pyrisitia%20venusta ns1:hasinfraspecificEpithet ns1:venusta .
+
+ns1:Pyrisitia%20venusta%20venusta ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Pyrisitia%20venusta%20venusta%20%28Boisduval%2C%201836%29%22> .
+
+ns1:Rhabdodryas ns1:hasspecies ns1:Rhabdodryas%20trite .
+
+ns1:Rhabdodryas%20trite ns1:hasinfraspecificEpithet ns1:trite .
+
+ns1:Rhabdodryas%20trite%20trite ns1:hasverbatimScientificName <http://example.org/taxonomy#%22Rhabdodryas%20trite%20trite%20%28Linnaeus%2C%201758%29%22> .
+
+ns1:SPECIES ns1:hasscientificName ns1:Anteos%20clorinde%20%28Godart%2C%201824%29,
+        ns1:Anteos%20maerula%20%28Fabricius%2C%201775%29,
+        ns1:Dismorphia%20amphione%20%28Cramer%2C%201779%29,
+        ns1:Enantia%20lina%20%28Herbst%2C%201792%29,
+        ns1:Eurema%20agave%20%28Cramer%2C%201775%29,
+        ns1:Eurema%20albula%20%28Cramer%2C%201775%29,
+        ns1:Eurema%20arbela%20Geyer%2C%201832,
+        ns1:Eurema%20daira%20%28Godart%2C%201819%29,
+        ns1:Eurema%20elathea%20%28Cramer%2C%201777%29,
+        ns1:Eurema%20leuce%20%28Boisduval%2C%201836%29,
+        ns1:Ganyra%20josephina%20%28Godart%2C%201819%29,
+        ns1:Ganyra%20phaloe%20%28Godart%2C%201819%29,
+        ns1:Hesperocharis%20nera%20%28Hewitson%2C%201852%29,
+        ns1:Itaballia%20demophile%20%28Linnaeus%2C%201763%29,
+        ns1:Kricogonia%20lyside%20%28Godart%2C%201819%29,
+        ns1:Leptophobia%20aripa%20%28Boisduval%2C%201836%29,
+        ns1:Leucidia%20brephos%20%28H%C3%BCbner%2C%201809%29,
+        ns1:Perrhybris%20pamela%20%28Stoll%2C%201780%29,
+        ns1:Phoebis%20argante%20%28Fabricius%2C%201775%29,
+        ns1:Phoebis%20philea%20%28Linnaeus%2C%201763%29,
+        ns1:Pyrisitia%20leuce%20%28Boisduval%2C%201836%29,
+        ns1:Pyrisitia%20proterpia%20%28Fabricius%2C%201775%29 .
+
+ns1:UWIZM ns1:hascollectionCode ns1:nan .
+
+ns1:basisOfRecord a owl:Class ;
+    rdfs:subClassOf ns1:speciesKey .
+
+ns1:catalogNumber a owl:Class ;
+    rdfs:subClassOf ns1:collectionCode .
+
+ns1:class a owl:Class ;
+    rdfs:subClassOf ns1:phylum .
+
+ns1:collectionCode a owl:Class ;
+    rdfs:subClassOf ns1:institutionCode .
+
+ns1:coordinatePrecision a owl:Class ;
+    rdfs:subClassOf ns1:coordinateUncertaintyInMeters .
+
+ns1:coordinateUncertaintyInMeters a owl:Class ;
+    rdfs:subClassOf ns1:decimalLongitude .
+
+ns1:countryCode a owl:Class ;
+    rdfs:subClassOf ns1:verbatimScientificNameAuthorship .
+
+ns1:datasetKey a owl:Class ;
+    rdfs:subClassOf ns1:gbifID .
+
+ns1:dateIdentified a owl:Class ;
+    rdfs:subClassOf ns1:identifiedBy .
+
+ns1:day a owl:Class ;
+    rdfs:subClassOf ns1:eventDate .
+
+ns1:decimalLatitude a owl:Class ;
+    rdfs:subClassOf ns1:publishingOrgKey .
+
+ns1:decimalLongitude a owl:Class ;
+    rdfs:subClassOf ns1:decimalLatitude .
+
+ns1:depth a owl:Class ;
+    rdfs:subClassOf ns1:elevationAccuracy .
+
+ns1:depthAccuracy a owl:Class ;
+    rdfs:subClassOf ns1:depth .
+
+ns1:drusilla ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:elevation a owl:Class ;
+    rdfs:subClassOf ns1:coordinatePrecision .
+
+ns1:elevationAccuracy a owl:Class ;
+    rdfs:subClassOf ns1:elevation .
+
+ns1:establishmentMeans a owl:Class ;
+    rdfs:subClassOf ns1:typeStatus .
+
+ns1:eventDate a owl:Class ;
+    rdfs:subClassOf ns1:depthAccuracy .
+
+ns1:family a owl:Class ;
+    rdfs:subClassOf ns1:order .
+
+ns1:genus a owl:Class ;
+    rdfs:subClassOf ns1:family .
+
+ns1:harti ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:identifiedBy a owl:Class ;
+    rdfs:subClassOf ns1:recordNumber .
+
+ns1:individualCount a owl:Class ;
+    rdfs:subClassOf ns1:occurrenceStatus .
+
+ns1:infraspecificEpithet a owl:Class ;
+    rdfs:subClassOf ns1:species .
+
+ns1:institutionCode a owl:Class ;
+    rdfs:subClassOf ns1:basisOfRecord .
+
+ns1:kingdom a owl:Class ;
+    rdfs:subClassOf ns1:occurrenceID .
+
+ns1:lastInterpreted a owl:Class ;
+    rdfs:subClassOf ns1:establishmentMeans .
+
+ns1:license a owl:Class ;
+    rdfs:subClassOf ns1:dateIdentified .
+
+ns1:locality a owl:Class ;
+    rdfs:subClassOf ns1:countryCode .
+
+ns1:marcellina ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:mediaType a owl:Class ;
+    rdfs:subClassOf ns1:lastInterpreted .
+
+ns1:month a owl:Class ;
+    rdfs:subClassOf ns1:day .
+
+ns1:monuste ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:occurrenceID a owl:Class ;
+    rdfs:subClassOf ns1:datasetKey .
+
+ns1:occurrenceStatus a owl:Class ;
+    rdfs:subClassOf ns1:stateProvince .
+
+ns1:order a owl:Class ;
+    rdfs:subClassOf ns1:class .
+
+ns1:pandosia ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:phylum a owl:Class ;
+    rdfs:subClassOf ns1:kingdom .
+
+ns1:publishingOrgKey a owl:Class ;
+    rdfs:subClassOf ns1:individualCount .
+
+ns1:recordNumber a owl:Class ;
+    rdfs:subClassOf ns1:catalogNumber .
+
+ns1:recordedBy a owl:Class ;
+    rdfs:subClassOf ns1:rightsHolder .
+
+ns1:rightsHolder a owl:Class ;
+    rdfs:subClassOf ns1:license .
+
+ns1:scientificName a owl:Class ;
+    rdfs:subClassOf ns1:taxonRank .
+
+ns1:species a owl:Class ;
+    rdfs:subClassOf ns1:genus .
+
+ns1:speciesKey a owl:Class ;
+    rdfs:subClassOf ns1:taxonKey .
+
+ns1:stateProvince a owl:Class ;
+    rdfs:subClassOf ns1:locality .
+
+ns1:statira ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:taxonKey a owl:Class ;
+    rdfs:subClassOf ns1:year .
+
+ns1:taxonRank a owl:Class ;
+    rdfs:subClassOf ns1:infraspecificEpithet .
+
+ns1:trite ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:typeStatus a owl:Class ;
+    rdfs:subClassOf ns1:recordedBy .
+
+ns1:venusta ns1:hastaxonRank ns1:SUBSPECIES .
+
+ns1:verbatimScientificName a owl:Class ;
+    rdfs:subClassOf ns1:scientificName .
+
+ns1:verbatimScientificNameAuthorship a owl:Class ;
+    rdfs:subClassOf ns1:verbatimScientificName .
+
+ns1:year a owl:Class ;
+    rdfs:subClassOf ns1:month .
+
+<http://example.org/taxonomy#-61.51> ns1:hascoordinateUncertaintyInMeters ns1:nan .
+
+ns1:14.0 ns1:hasmonth ns1:8.0,
+        ns1:9.0 .
+
+ns1:1919149 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919149 .
+
+ns1:1919947 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919947 .
+
+ns1:1920426 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1920426 .
+
+ns1:1927.0 ns1:hastaxonKey ns1:1919947,
+        ns1:5137839 .
+
+ns1:1937.0 ns1:hastaxonKey ns1:1919128,
+        ns1:4300491,
+        ns1:9556902 .
+
+ns1:1957.0 ns1:hastaxonKey ns1:1919130,
+        ns1:1920426 .
+
+ns1:1960.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1919646,
+        ns1:1920262,
+        ns1:1920463,
+        ns1:7259570,
+        ns1:7259571 .
+
+ns1:1962.0 ns1:hastaxonKey ns1:1920157,
+        ns1:9207928 .
+
+ns1:1969.0 ns1:hastaxonKey ns1:1919656,
+        ns1:5137839,
+        ns1:5805656 .
+
+ns1:1971.0 ns1:hastaxonKey ns1:1920157,
+        ns1:5137816,
+        ns1:9556902 .
+
+ns1:1973.0 ns1:hastaxonKey ns1:1919149,
+        ns1:1920157 .
+
+ns1:22.0 ns1:hasmonth ns1:1.0 .
+
+ns1:26.0 ns1:hasmonth ns1:1.0,
+        ns1:6.0 .
+
+ns1:28.0 ns1:hasmonth ns1:1.0,
+        ns1:9.0 .
+
+ns1:29.0 ns1:hasmonth ns1:1.0,
+        ns1:12.0 .
+
+ns1:7259570 ns1:hasspeciesKey ns1:1920803 .
+
+ns1:M.%20Barcant ns1:hasdateIdentified ns1:nan ;
+    ns1:hastypeStatus ns1:nan .
+
+<http://example.org/taxonomy#%22%28Boisduval%2C%201836%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Cramer%2C%201777%29%22> ns1:hascountryCode ns1:TT .
+
+<http://example.org/taxonomy#%22%28Fabricius%2C%201775%29%22> ns1:hascountryCode ns1:TT .
+
+ns1:1919128 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919128 .
+
+ns1:20.0 ns1:hasmonth ns1:10.0,
+        ns1:7.0,
+        ns1:9.0 .
+
+ns1:23.0 ns1:hasmonth ns1:11.0,
+        ns1:2.0,
+        ns1:9.0 .
+
+ns1:4.0 ns1:hasyear ns1:1963.0,
+        ns1:1965.0,
+        ns1:1966.0 .
+
+ns1:4300491 ns1:hasspeciesKey ns1:1919653 .
+
+ns1:7259571 ns1:hasspeciesKey ns1:5137540 .
+
+ns1:17.0 ns1:hasmonth ns1:1.0,
+        ns1:4.0,
+        ns1:6.0,
+        ns1:7.0 .
+
+ns1:1919130 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919130 .
+
+ns1:1919239 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919239 .
+
+ns1:1920581 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1920581 .
+
+ns1:1954.0 ns1:hastaxonKey ns1:1919130,
+        ns1:1919646,
+        ns1:1919656,
+        ns1:4300491,
+        ns1:7259569,
+        ns1:9556902 .
+
+ns1:1964.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1919282,
+        ns1:1919646,
+        ns1:1920157,
+        ns1:5137816,
+        ns1:7259571,
+        ns1:9207928 .
+
+ns1:1968.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1920157,
+        ns1:5137816,
+        ns1:5137825,
+        ns1:5137851 .
+
+ns1:3.0 ns1:hasmonth ns1:5.0 ;
+    ns1:hasyear ns1:1966.0,
+        ns1:1969.0 .
+
+ns1:30.0 ns1:hasmonth ns1:11.0,
+        ns1:7.0,
+        ns1:9.0 .
+
+ns1:31.0 ns1:hasmonth ns1:1.0,
+        ns1:8.0 .
+
+ns1:5137553 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:5137553 .
+
+ns1:5137819 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:5137819 .
+
+ns1:5137839 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:5137839 .
+
+ns1:5805656 ns1:hasspeciesKey ns1:1919945 .
+
+ns1:8866059 ns1:hasspeciesKey ns1:1920691 .
+
+ns1:9207928 ns1:hasspeciesKey ns1:1920579 .
+
+ns1:9299790 ns1:hasspeciesKey ns1:1920461 .
+
+ns1:13.0 ns1:hasmonth ns1:12.0,
+        ns1:7.0,
+        ns1:8.0 .
+
+ns1:1919945 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919945 .
+
+ns1:25.0 ns1:hasmonth ns1:1.0,
+        ns1:11.0,
+        ns1:5.0,
+        ns1:9.0 .
+
+ns1:27.0 ns1:hasmonth ns1:1.0,
+        ns1:6.0,
+        ns1:8.0 .
+
+ns1:5137825 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:5137825 .
+
+ns1:5137851 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:5137851 .
+
+ns1:7259569 ns1:hasspeciesKey ns1:1920571 .
+
+ns1:15.0 ns1:hasmonth ns1:1.0,
+        ns1:2.0,
+        ns1:5.0,
+        ns1:7.0,
+        ns1:9.0 .
+
+ns1:1919656 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919656 .
+
+ns1:1920262 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1920262 .
+
+ns1:1920463 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1920463 .
+
+ns1:1961.0 ns1:hastaxonKey ns1:1919130,
+        ns1:1919282,
+        ns1:1919945,
+        ns1:1920157,
+        ns1:1920463,
+        ns1:1920581,
+        ns1:5137553,
+        ns1:5137816,
+        ns1:7259569,
+        ns1:9299790,
+        ns1:9556902 .
+
+ns1:2.0 ns1:hasmonth ns1:6.0,
+        ns1:9.0 ;
+    ns1:hasyear ns1:1961.0,
+        ns1:1963.0,
+        ns1:1965.0,
+        ns1:1967.0,
+        ns1:1971.0 .
+
+ns1:1919646 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919646 .
+
+ns1:1963.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1919282,
+        ns1:1919656,
+        ns1:1920157,
+        ns1:1920262,
+        ns1:1920581,
+        ns1:5805656,
+        ns1:9556902 .
+
+ns1:21.0 ns1:hasmonth ns1:10.0,
+        ns1:11.0,
+        ns1:7.0,
+        ns1:8.0 .
+
+ns1:11.0 ns1:hasmonth ns1:12.0,
+        ns1:5.0 ;
+    ns1:hasyear ns1:1947.0,
+        ns1:1961.0,
+        ns1:1965.0,
+        ns1:1966.0,
+        ns1:1967.0,
+        ns1:1969.0 .
+
+ns1:18.0 ns1:hasmonth ns1:10.0,
+        ns1:11.0,
+        ns1:7.0,
+        ns1:8.0,
+        ns1:9.0 .
+
+ns1:1919146 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919146 .
+
+ns1:1965.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1919239,
+        ns1:1919282,
+        ns1:1919646,
+        ns1:1919945,
+        ns1:1920157,
+        ns1:1920262,
+        ns1:1920463,
+        ns1:5137816,
+        ns1:5137819,
+        ns1:5137825,
+        ns1:5137851,
+        ns1:5805656,
+        ns1:8866059,
+        ns1:9299790,
+        ns1:9556902 .
+
+ns1:1967.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1919282,
+        ns1:1919656,
+        ns1:1920157,
+        ns1:1920262,
+        ns1:1920463,
+        ns1:5137553,
+        ns1:5137819,
+        ns1:5137825,
+        ns1:5137851,
+        ns1:7259569,
+        ns1:8866059,
+        ns1:9299790 .
+
+ns1:5.0 ns1:hasmonth ns1:7.0 ;
+    ns1:hasyear ns1:1927.0,
+        ns1:1964.0,
+        ns1:1966.0,
+        ns1:1967.0,
+        ns1:1968.0 .
+
+ns1:5137816 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:5137816 .
+
+ns1:9556902 ns1:hasspeciesKey ns1:1919937 .
+
+ns1:SUBSPECIES ns1:hasscientificName ns1:Aphrissa%20statira%20statira,
+        ns1:Ascia%20monuste%20monuste,
+        ns1:Glutophrissa%20drusilla%20drusilla,
+        ns1:Itaballia%20pandosia%20pandosia,
+        ns1:Melete%20lycimnia%20harti,
+        ns1:Phoebis%20sennae%20marcellina%20%28Cramer%2C%201777%29,
+        ns1:Pyrisitia%20venusta%20venusta,
+        ns1:Rhabdodryas%20trite%20trite .
+
+ns1:10.0 ns1:hasmonth ns1:4.0,
+        ns1:7.0,
+        ns1:9.0 ;
+    ns1:hasyear ns1:1954.0,
+        ns1:1962.0,
+        ns1:1964.0,
+        ns1:1966.0 .
+
+ns1:1919282 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1919282 .
+
+ns1:1920157 ns1:hasbasisOfRecord ns1:PRESERVED_SPECIMEN ;
+    ns1:hasspeciesKey ns1:1920157 .
+
+ns1:1966.0 ns1:hastaxonKey ns1:1919146,
+        ns1:1919239,
+        ns1:1919282,
+        ns1:1919646,
+        ns1:1919656,
+        ns1:1919945,
+        ns1:1920463,
+        ns1:4300491,
+        ns1:5137553,
+        ns1:5137816,
+        ns1:5137819,
+        ns1:5137825,
+        ns1:5137851,
+        ns1:5805656,
+        ns1:7259569,
+        ns1:7259570,
+        ns1:7259571,
+        ns1:8866059,
+        ns1:9207928,
+        ns1:9299790,
+        ns1:9556902 .
+
+ns1:12.0 ns1:hasmonth ns1:12.0,
+        ns1:6.0,
+        ns1:8.0 ;
+    ns1:hasyear ns1:1961.0,
+        ns1:1963.0,
+        ns1:1966.0,
+        ns1:1967.0,
+        ns1:1973.0 .
+
+ns1:6.0 ns1:hasmonth ns1:1.0,
+        ns1:10.0,
+        ns1:12.0,
+        ns1:7.0 ;
+    ns1:hasyear ns1:1932.0,
+        ns1:1954.0,
+        ns1:1960.0,
+        ns1:1965.0,
+        ns1:1966.0,
+        ns1:1967.0 .
+
+ns1:8.0 ns1:hasmonth ns1:1.0,
+        ns1:11.0,
+        ns1:3.0,
+        ns1:5.0,
+        ns1:7.0,
+        ns1:8.0 ;
+    ns1:hasyear ns1:1927.0,
+        ns1:1937.0,
+        ns1:1956.0,
+        ns1:1958.0,
+        ns1:1959.0,
+        ns1:1961.0,
+        ns1:1962.0,
+        ns1:1963.0,
+        ns1:1964.0,
+        ns1:1965.0,
+        ns1:1966.0,
+        ns1:1968.0,
+        ns1:1973.0 .
+
+ns1:9.0 ns1:hasmonth ns1:1.0,
+        ns1:12.0,
+        ns1:2.0,
+        ns1:3.0 ;
+    ns1:hasyear ns1:1937.0,
+        ns1:1954.0,
+        ns1:1957.0,
+        ns1:1961.0,
+        ns1:1963.0,
+        ns1:1965.0,
+        ns1:1966.0,
+        ns1:1967.0,
+        ns1:1971.0 .
+
+ns1:7.0 ns1:hasmonth ns1:10.0,
+        ns1:12.0,
+        ns1:2.0,
+        ns1:3.0,
+        ns1:4.0,
+        ns1:5.0,
+        ns1:6.0,
+        ns1:9.0 ;
+    ns1:hasyear ns1:1954.0,
+        ns1:1957.0,
+        ns1:1960.0,
+        ns1:1961.0,
+        ns1:1963.0,
+        ns1:1964.0,
+        ns1:1965.0,
+        ns1:1966.0,
+        ns1:1967.0,
+        ns1:1968.0 .
+
+ns1:TT ns1:haslocality <http://example.org/taxonomy#%22Arena%20Road%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Ariapita%20Estate%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Balata%20Hill%2C%20Mayaro%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Barackpore%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Botanical%20Gardens%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Cats%20Hill%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Central%20Range%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Cruse%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Diego%20Martin%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22End%20of%20Chancellor%20Road%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Fondes%20Amandes%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Forest%20Reserve%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Gasparee%20Island%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Guayaguayare%20Forest%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Guayaguayare%20Road%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Guayaguayare%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Icacos%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Innis%20Field%2C%20Cat%27s%20Hill%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Inniss%20Road%2C%20Cats%20Hill%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Inniss%2C%20Cats%20Hill%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Kings%20Bay%2C%20Tobago%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22La%20Laja%20Road%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22La%20Laja%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Lady%20Chancellor%20Road%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Las%20Lomas%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Maloney%20Road%2C%20Mayaro%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Mandillion%2C%20Sangre%20Grande%2C%20Trinidad%2C%20W.I%22>,
+        <http://example.org/taxonomy#%22Maraval%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Marcas%20Lookout%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Mayaro%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Monceaux%20Bay%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22More%20Avenue%2C%20St.%20Anns%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Parry%20Lands%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Point%20Fortin%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Quare%20Dam%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Queens%20Park%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Quinam%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Rio%20Claro%20Guayaguayare%20Road%2C%20Trinidad%2C%20W%22>,
+        <http://example.org/taxonomy#%22Rio%20Claro%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22San%20Diego%20Park%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22San%20Souci%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Sans%20Souci%20Estate%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22South%20Sangre%20Grande%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22St.%20Anns%20Ridge%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22St.%20Anns%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22St.%20Augustine%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Union%20Road%2C%20Mayaro%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Wallerfield%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22West%20Trinity%2C%20Trinidad%2C%20W.I.%22>,
+        <http://example.org/taxonomy#%22Yara%20River%2C%20Blanchiseusse%2C%20Trinidad%2C%20W.I%22> .
+
+ns1:PRESERVED_SPECIMEN ns1:hasinstitutionCode ns1:UWIZM .
+
+ns1:1.0 ns1:hasmonth ns1:12.0,
+        ns1:6.0,
+        ns1:7.0,
+        ns1:8.0,
+        ns1:9.0 ;
+    ns1:hasyear ns1:1963.0,
+        ns1:1965.0,
+        ns1:1966.0,
+        ns1:1967.0,
+        ns1:1968.0,
+        ns1:1972.0 .
+
+ns1:nan ns1:hascatalogNumber ns1:nan ;
+    ns1:hascoordinatePrecision ns1:nan ;
+    ns1:hasday ns1:nan ;
+    ns1:hasdepth ns1:nan ;
+    ns1:hasdepthAccuracy ns1:nan ;
+    ns1:haselevation ns1:nan ;
+    ns1:haselevationAccuracy ns1:nan ;
+    ns1:hasestablishmentMeans ns1:nan ;
+    ns1:haseventDate ns1:1927-05-15T00%3A00%3A00,
+        ns1:1927-08-01T00%3A00%3A00,
+        ns1:1932-06-01T00%3A00%3A00,
+        ns1:1937-08-01T00%3A00%3A00,
+        ns1:1937-09-30T00%3A00%3A00,
+        ns1:1947-11-18T00%3A00%3A00,
+        ns1:1954-06-01T00%3A00%3A00,
+        ns1:1954-07-01T00%3A00%3A00,
+        ns1:1954-09-20T00%3A00%3A00,
+        ns1:1954-10-07T00%3A00%3A00,
+        ns1:1956-08-31T00%3A00%3A00,
+        ns1:1957-07-20T00%3A00%3A00,
+        ns1:1957-09-01T00%3A00%3A00,
+        ns1:1957-09-30T00%3A00%3A00,
+        ns1:1958-08-01T00%3A00%3A00,
+        ns1:1959-08-01T00%3A00%3A00,
+        ns1:1960-06-01T00%3A00%3A00,
+        ns1:1960-06-26T00%3A00%3A00,
+        ns1:1960-06-27T00%3A00%3A00,
+        ns1:1960-07-01T00%3A00%3A00,
+        ns1:1960-07-05T00%3A00%3A00,
+        ns1:1960-07-17T00%3A00%3A00,
+        ns1:1961-02-07T00%3A00%3A00,
+        ns1:1961-07-01T00%3A00%3A00,
+        ns1:1961-07-06T00%3A00%3A00,
+        ns1:1961-07-08T00%3A00%3A00,
+        ns1:1961-07-13T00%3A00%3A00,
+        ns1:1961-08-18T00%3A00%3A00,
+        ns1:1961-09-01T00%3A00%3A00,
+        ns1:1961-09-25T00%3A00%3A00,
+        ns1:1961-11-21T00%3A00%3A00,
+        ns1:1961-12-01T00%3A00%3A00,
+        ns1:1962-08-01T00%3A00%3A00,
+        ns1:1962-08-08T00%3A00%3A00,
+        ns1:1962-10-21T00%3A00%3A00,
+        ns1:1963-01-09T00%3A00%3A00,
+        ns1:1963-01-17T00%3A00%3A00,
+        ns1:1963-02-09T00%3A00%3A00,
+        ns1:1963-04-10T00%3A00%3A00,
+        ns1:1963-07-01T00%3A00%3A00,
+        ns1:1963-07-06T00%3A00%3A00,
+        ns1:1963-08-27T00%3A00%3A00,
+        ns1:1963-09-10T00%3A00%3A00,
+        ns1:1963-12-13T00%3A00%3A00,
+        ns1:1963-12-29T00%3A00%3A00,
+        ns1:1964-05-03T00%3A00%3A00,
+        ns1:1964-07-01T00%3A00%3A00,
+        ns1:1964-07-10T00%3A00%3A00,
+        ns1:1964-07-15T00%3A00%3A00,
+        ns1:1964-07-18T00%3A00%3A00,
+        ns1:1964-08-14T00%3A00%3A00,
+        ns1:1964-10-06T00%3A00%3A00,
+        ns1:1964-10-18T00%3A00%3A00,
+        ns1:1964-10-20T00%3A00%3A00,
+        ns1:1965-01-22T00%3A00%3A00,
+        ns1:1965-01-26T00%3A00%3A00,
+        ns1:1965-01-31T00%3A00%3A00,
+        ns1:1965-02-23T00%3A00%3A00,
+        ns1:1965-04-17T00%3A00%3A00,
+        ns1:1965-06-02T00%3A00%3A00,
+        ns1:1965-06-12T00%3A00%3A00,
+        ns1:1965-07-18T00%3A00%3A00,
+        ns1:1965-08-12T00%3A00%3A00,
+        ns1:1965-08-18T00%3A00%3A00,
+        ns1:1965-08-21T00%3A00%3A00,
+        ns1:1965-09-01T00%3A00%3A00,
+        ns1:1965-09-02T00%3A00%3A00,
+        ns1:1965-09-14T00%3A00%3A00,
+        ns1:1965-09-23T00%3A00%3A00,
+        ns1:1965-09-25T00%3A00%3A00,
+        ns1:1965-09-28T00%3A00%3A00,
+        ns1:1965-11-21T00%3A00%3A00,
+        ns1:1965-11-23T00%3A00%3A00,
+        ns1:1965-11-25T00%3A00%3A00,
+        ns1:1966-01-08T00%3A00%3A00,
+        ns1:1966-01-27T00%3A00%3A00,
+        ns1:1966-03-07T00%3A00%3A00,
+        ns1:1966-03-09T00%3A00%3A00,
+        ns1:1966-04-07T00%3A00%3A00,
+        ns1:1966-05-07T00%3A00%3A00,
+        ns1:1966-05-08T00%3A00%3A00,
+        ns1:1966-06-01T00%3A00%3A00,
+        ns1:1966-06-07T00%3A00%3A00,
+        ns1:1966-06-27T00%3A00%3A00,
+        ns1:1966-07-13T00%3A00%3A00,
+        ns1:1966-07-21T00%3A00%3A00,
+        ns1:1966-07-30T00%3A00%3A00,
+        ns1:1966-08-13T00%3A00%3A00,
+        ns1:1966-08-31T00%3A00%3A00,
+        ns1:1966-09-07T00%3A00%3A00,
+        ns1:1966-09-10T00%3A00%3A00,
+        ns1:1966-09-24T00%3A00%3A00,
+        ns1:1966-10-06T00%3A00%3A00,
+        ns1:1966-10-21T00%3A00%3A00,
+        ns1:1966-11-21T00%3A00%3A00,
+        ns1:1966-12-09T00%3A00%3A00,
+        ns1:1966-12-11T00%3A00%3A00,
+        ns1:1967-01-22T00%3A00%3A00,
+        ns1:1967-01-25T00%3A00%3A00,
+        ns1:1967-01-27T00%3A00%3A00,
+        ns1:1967-01-28T00%3A00%3A00,
+        ns1:1967-01-29T00%3A00%3A00,
+        ns1:1967-02-07T00%3A00%3A00,
+        ns1:1967-05-11T00%3A00%3A00,
+        ns1:1967-06-17T00%3A00%3A00,
+        ns1:1967-07-06T00%3A00%3A00,
+        ns1:1967-07-08T00%3A00%3A00,
+        ns1:1967-07-13T00%3A00%3A00,
+        ns1:1967-07-15T00%3A00%3A00,
+        ns1:1967-07-18T00%3A00%3A00,
+        ns1:1967-09-18T00%3A00%3A00,
+        ns1:1967-11-30T00%3A00%3A00,
+        ns1:1967-12-06T00%3A00%3A00,
+        ns1:1967-12-07T00%3A00%3A00,
+        ns1:1968-01-06T00%3A00%3A00,
+        ns1:1968-05-25T00%3A00%3A00,
+        ns1:1968-07-05T00%3A00%3A00,
+        ns1:1968-08-12T00%3A00%3A00,
+        ns1:1969-03-08T00%3A00%3A00,
+        ns1:1969-11-08T00%3A00%3A00,
+        ns1:1971-02-15T00%3A00%3A00,
+        ns1:1971-09-15T00%3A00%3A00,
+        ns1:1972-01-15T00%3A00%3A00,
+        ns1:1973-08-31T00%3A00%3A00,
+        ns1:1973-12-12T00%3A00%3A00,
+        ns1:nan ;
+    ns1:hasidentifiedBy ns1:M.%20Barcant ;
+    ns1:hasissue ns1:CONTINENT_DERIVED_FROM_COORDINATES%3BOCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT%3BCOLLECTION_MATCH_NONE,
+        ns1:CONTINENT_DERIVED_FROM_COORDINATES%3BTAXON_MATCH_HIGHERRANK%3BOCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT%3BCOLLECTION_MATCH_NONE ;
+    ns1:haslastInterpreted ns1:2023-09-07T04%3A54%3A47.235Z,
+        ns1:2023-09-07T04%3A54%3A47.266Z,
+        ns1:2023-09-07T04%3A54%3A47.267Z,
+        ns1:2023-09-07T04%3A54%3A47.268Z,
+        ns1:2023-09-07T04%3A54%3A47.269Z,
+        ns1:2023-09-07T04%3A54%3A47.270Z,
+        ns1:2023-09-07T04%3A54%3A47.271Z,
+        ns1:2023-09-07T04%3A54%3A47.272Z,
+        ns1:2023-09-07T04%3A54%3A47.273Z,
+        ns1:2023-09-07T04%3A54%3A47.274Z,
+        ns1:2023-09-07T04%3A54%3A47.275Z,
+        ns1:2023-09-07T04%3A54%3A47.276Z,
+        ns1:2023-09-07T04%3A54%3A47.277Z,
+        ns1:2023-09-07T04%3A54%3A47.278Z,
+        ns1:2023-09-07T04%3A54%3A47.279Z ;
+    ns1:haslicense ns1:CC_BY_4_0 ;
+    ns1:hasmonth ns1:nan ;
+    ns1:hasoccurrenceStatus ns1:PRESENT ;
+    ns1:hasrecordNumber ns1:nan ;
+    ns1:hasrecordedBy ns1:M.%20Barcant ;
+    ns1:hastaxonKey ns1:1919239,
+        ns1:1919282,
+        ns1:1920581,
+        ns1:7259569,
+        ns1:9207928,
+        ns1:9556902 ;
+    ns1:hastaxonRank ns1:SPECIES ;
+    ns1:hasyear ns1:nan .
+
+ns1:438245ee-99e3-4417-bd4f-4ef7ecc16660 ns1:hasoccurrenceID ns1:BBC.1632,
+        ns1:BBC.1633,
+        ns1:BBC.1634,
+        ns1:BBC.1635,
+        ns1:BBC.1636,
+        ns1:BBC.1639,
+        ns1:BBC.1640,
+        ns1:BBC.1641,
+        ns1:BBC.1642,
+        ns1:BBC.1643,
+        ns1:BBC.1644,
+        ns1:BBC.1645,
+        ns1:BBC.1646,
+        ns1:BBC.1647,
+        ns1:BBC.1648,
+        ns1:BBC.1649,
+        ns1:BBC.1650,
+        ns1:BBC.1651,
+        ns1:BBC.1652,
+        ns1:BBC.1653,
+        ns1:BBC.1654,
+        ns1:BBC.1655,
+        ns1:BBC.1656,
+        ns1:BBC.1657,
+        ns1:BBC.1658,
+        ns1:BBC.1659,
+        ns1:BBC.1660,
+        ns1:BBC.1661,
+        ns1:BBC.1663,
+        ns1:BBC.1664,
+        ns1:BBC.1665,
+        ns1:BBC.1666,
+        ns1:BBC.1667,
+        ns1:BBC.1668,
+        ns1:BBC.1669,
+        ns1:BBC.1670,
+        ns1:BBC.1671,
+        ns1:BBC.1672,
+        ns1:BBC.1673,
+        ns1:BBC.1674,
+        ns1:BBC.1675,
+        ns1:BBC.1676,
+        ns1:BBC.1677,
+        ns1:BBC.1678,
+        ns1:BBC.1679,
+        ns1:BBC.1680,
+        ns1:BBC.1681,
+        ns1:BBC.1682,
+        ns1:BBC.1683,
+        ns1:BBC.1685,
+        ns1:BBC.1686,
+        ns1:BBC.1687,
+        ns1:BBC.1688,
+        ns1:BBC.1689,
+        ns1:BBC.1690,
+        ns1:BBC.1691,
+        ns1:BBC.1692,
+        ns1:BBC.1693,
+        ns1:BBC.1694,
+        ns1:BBC.1695,
+        ns1:BBC.1696,
+        ns1:BBC.1697,
+        ns1:BBC.1698,
+        ns1:BBC.1699,
+        ns1:BBC.1700,
+        ns1:BBC.1703,
+        ns1:BBC.1704,
+        ns1:BBC.1705,
+        ns1:BBC.1706,
+        ns1:BBC.1707,
+        ns1:BBC.1708,
+        ns1:BBC.1709,
+        ns1:BBC.1710,
+        ns1:BBC.1711,
+        ns1:BBC.1714,
+        ns1:BBC.1715,
+        ns1:BBC.1716,
+        ns1:BBC.1717,
+        ns1:BBC.1718,
+        ns1:BBC.1719,
+        ns1:BBC.1720,
+        ns1:BBC.1721,
+        ns1:BBC.1722,
+        ns1:BBC.1723,
+        ns1:BBC.1724,
+        ns1:BBC.1725,
+        ns1:BBC.1726,
+        ns1:BBC.1727,
+        ns1:BBC.1728,
+        ns1:BBC.1729,
+        ns1:BBC.1730,
+        ns1:BBC.1731,
+        ns1:BBC.1732,
+        ns1:BBC.1733,
+        ns1:BBC.1734,
+        ns1:BBC.1735,
+        ns1:BBC.1736,
+        ns1:BBC.1737,
+        ns1:BBC.1738,
+        ns1:BBC.1739,
+        ns1:BBC.1740,
+        ns1:BBC.1741,
+        ns1:BBC.1742,
+        ns1:BBC.1743,
+        ns1:BBC.1748,
+        ns1:BBC.1749,
+        ns1:BBC.1750,
+        ns1:BBC.1751,
+        ns1:BBC.1752,
+        ns1:BBC.1755,
+        ns1:BBC.1756,
+        ns1:BBC.1757,
+        ns1:BBC.1758,
+        ns1:BBC.1759,
+        ns1:BBC.1760,
+        ns1:BBC.1761,
+        ns1:BBC.1762,
+        ns1:BBC.1763,
+        ns1:BBC.1764,
+        ns1:BBC.1765,
+        ns1:BBC.1766,
+        ns1:BBC.1767,
+        ns1:BBC.1768,
+        ns1:BBC.1769,
+        ns1:BBC.1770,
+        ns1:BBC.1771,
+        ns1:BBC.1772,
+        ns1:BBC.1773,
+        ns1:BBC.1775,
+        ns1:BBC.1776,
+        ns1:BBC.1777,
+        ns1:BBC.1778,
+        ns1:BBC.1779,
+        ns1:BBC.1780,
+        ns1:BBC.1781,
+        ns1:BBC.1782,
+        ns1:BBC.1783,
+        ns1:BBC.1784,
+        ns1:BBC.1785,
+        ns1:BBC.1786,
+        ns1:BBC.1787,
+        ns1:BBC.1788,
+        ns1:BBC.1789,
+        ns1:BBC.1790,
+        ns1:BBC.1791,
+        ns1:BBC.1793,
+        ns1:BBC.1794,
+        ns1:BBC.1795,
+        ns1:BBC.1796,
+        ns1:BBC.1797,
+        ns1:BBC.1799,
+        ns1:BBC.1800,
+        ns1:BBC.1801,
+        ns1:BBC.1802,
+        ns1:BBC.1803,
+        ns1:BBC.1804,
+        ns1:BBC.1805,
+        ns1:BBC.1806,
+        ns1:BBC.1807,
+        ns1:BBC.1808,
+        ns1:BBC.1809,
+        ns1:BBC.1810,
+        ns1:BBC.1811,
+        ns1:BBC.1812,
+        ns1:BBC.1813,
+        ns1:BBC.1814,
+        ns1:BBC.1815,
+        ns1:BBC.1816,
+        ns1:BBC.1817,
+        ns1:BBC.1818,
+        ns1:BBC.1819,
+        ns1:BBC.1820,
+        ns1:BBC.1821,
+        ns1:BBC.1822,
+        ns1:BBC.1823,
+        ns1:BBC.1824,
+        ns1:BBC.1825,
+        ns1:BBC.1827,
+        ns1:BBC.1828,
+        ns1:BBC.1829,
+        ns1:BBC.1830,
+        ns1:BBC.1831,
+        ns1:BBC.1832,
+        ns1:BBC.1833,
+        ns1:BBC.1834,
+        ns1:BBC.1835,
+        ns1:BBC.1836,
+        ns1:BBC.1837,
+        ns1:BBC.1838,
+        ns1:BBC.1839,
+        ns1:BBC.1840,
+        ns1:BBC.1841,
+        ns1:BBC.1842,
+        ns1:BBC.1844,
+        ns1:BBC.1845,
+        ns1:BBC.1846,
+        ns1:BBC.1847,
+        ns1:BBC.1848,
+        ns1:BBC.1849,
+        ns1:BBC.1850,
+        ns1:BBC.1851,
+        ns1:BBC.1852,
+        ns1:BBC.1853,
+        ns1:BBC.1854,
+        ns1:BBC.1855,
+        ns1:BBC.1856,
+        ns1:BBC.1857,
+        ns1:BBC.1858,
+        ns1:BBC.1860,
+        ns1:BBC.1861,
+        ns1:BBC.1862,
+        ns1:BBC.1863,
+        ns1:BBC.1864,
+        ns1:BBC.1865,
+        ns1:BBC.1866,
+        ns1:BBC.1867,
+        ns1:BBC.1868,
+        ns1:BBC.1869,
+        ns1:BBC.1870,
+        ns1:BBC.1871,
+        ns1:BBC.1872,
+        ns1:BBC.1874,
+        ns1:BBC.1875,
+        ns1:BBC.1876,
+        ns1:BBC.1877,
+        ns1:BBC.1878,
+        ns1:BBC.1879,
+        ns1:BBC.1880,
+        ns1:BBC.1881,
+        ns1:BBC.1882,
+        ns1:BBC.1883,
+        ns1:BBC.1884,
+        ns1:BBC.1885,
+        ns1:BBC.1886,
+        ns1:BBC.1887,
+        ns1:BBC.1889,
+        ns1:BBC.1890,
+        ns1:BBC.1891,
+        ns1:BBC.1892,
+        ns1:BBC.1893,
+        ns1:BBC.1894,
+        ns1:BBC.1895,
+        ns1:BBC.1897,
+        ns1:BBC.1898,
+        ns1:BBC.1899,
+        ns1:BBC.1900,
+        ns1:BBC.1901,
+        ns1:BBC.1902,
+        ns1:BBC.1903,
+        ns1:BBC.1904,
+        ns1:BBC.1908,
+        ns1:BBC.1909,
+        ns1:BBC.1910,
+        ns1:BBC.1911,
+        ns1:BBC.1912,
+        ns1:BBC.1913,
+        ns1:BBC.1914,
+        ns1:BBC.1916,
+        ns1:BBC.1917,
+        ns1:BBC.1918,
+        ns1:BBC.1919,
+        ns1:BBC.1920,
+        ns1:BBC.1921,
+        ns1:BBC.1922,
+        ns1:BBC.1923,
+        ns1:BBC.1924,
+        ns1:BBC.1925,
+        ns1:BBC.1926,
+        ns1:BBC.1927,
+        ns1:BBC.1928,
+        ns1:BBC.1929,
+        ns1:BBC.1930,
+        ns1:BBC.1931,
+        ns1:BBC.1932,
+        ns1:BBC.1933,
+        ns1:BBC.1934,
+        ns1:BBC.1935,
+        ns1:BBC.1936,
+        ns1:BBC.1937,
+        ns1:BBC.1940,
+        ns1:BBC.1941,
+        ns1:BBC.1942,
+        ns1:BBC.1943,
+        ns1:BBC.1944,
+        ns1:BBC.1945,
+        ns1:BBC.1946,
+        ns1:BBC.1947,
+        ns1:BBC.1948,
+        ns1:BBC.1949,
+        ns1:BBC.1950,
+        ns1:BBC.1951,
+        ns1:BBC.1952,
+        ns1:BBC.1953,
+        ns1:BBC.1954,
+        ns1:BBC.1955,
+        ns1:BBC.1957,
+        ns1:BBC.1958,
+        ns1:BBC.1959,
+        ns1:BBC.1960,
+        ns1:BBC.1961,
+        ns1:BBC.1962,
+        ns1:BBC.1963,
+        ns1:BBC.1964,
+        ns1:BBC.1965,
+        ns1:BBC.1966,
+        ns1:BBC.1967,
+        ns1:BBC.1968,
+        ns1:BBC.1969,
+        ns1:BBC.1970,
+        ns1:BBC.1971,
+        ns1:BBC.1972,
+        ns1:BBC.1973,
+        ns1:BBC.1974,
+        ns1:BBC.1975,
+        ns1:BBC.1978,
+        ns1:BBC.1979,
+        ns1:BBC.1980,
+        ns1:BBC.1981,
+        ns1:BBC.1982,
+        ns1:BBC.1983,
+        ns1:BBC.1985,
+        ns1:BBC.1986,
+        ns1:BBC.1987,
+        ns1:BBC.1988,
+        ns1:BBC.1989,
+        ns1:BBC.1990,
+        ns1:BBC.1991,
+        ns1:BBC.1992,
+        ns1:BBC.1993,
+        ns1:BBC.1994,
+        ns1:BBC.1995,
+        ns1:BBC.1996,
+        ns1:BBC.1997,
+        ns1:BBC.1998,
+        ns1:BBC.1999,
+        ns1:BBC.2000,
+        ns1:BBC.2001,
+        ns1:BBC.2002,
+        ns1:BBC.2003,
+        ns1:BBC.2004,
+        ns1:BBC.2005,
+        ns1:BBC.2006,
+        ns1:BBC.2007,
+        ns1:BBC.2008,
+        ns1:BBC.2009,
+        ns1:BBC.2010,
+        ns1:BBC.2011,
+        ns1:BBC.2012,
+        ns1:BBC.2013,
+        ns1:BBC.2014,
+        ns1:BBC.2015,
+        ns1:BBC.2016,
+        ns1:BBC.2017,
+        ns1:BBC.2018,
+        ns1:BBC.2019,
+        ns1:BBC.2020,
+        ns1:BBC.2021,
+        ns1:BBC.2022,
+        ns1:BBC.2023,
+        ns1:BBC.2024,
+        ns1:BBC.2025,
+        ns1:BBC.2026,
+        ns1:BBC.2027,
+        ns1:BBC.2028,
+        ns1:BBC.2029,
+        ns1:BBC.2031,
+        ns1:BBC.2032,
+        ns1:BBC.2033,
+        ns1:BBC.2034,
+        ns1:BBC.2035,
+        ns1:BBC.2036,
+        ns1:BBC.2038,
+        ns1:BBC.2039,
+        ns1:BBC.2040,
+        ns1:BBC.2041,
+        ns1:BBC.2042,
+        ns1:BBC.2043,
+        ns1:BBC.2044,
+        ns1:BBC.2045,
+        ns1:BBC.2046,
+        ns1:BBC.2048,
+        ns1:BBC.2049,
+        ns1:BBC.2050,
+        ns1:BBC.2051,
+        ns1:BBC.2052,
+        ns1:BBC.2053,
+        ns1:BBC.2054,
+        ns1:BBC.2055,
+        ns1:BBC.2056,
+        ns1:BBC.2057,
+        ns1:BBC.2058,
+        ns1:BBC.2061,
+        ns1:BBC.2062,
+        ns1:BBC.2063,
+        ns1:BBC.2064,
+        ns1:BBC.2065,
+        ns1:BBC.2066,
+        ns1:BBC.2067,
+        ns1:BBC.2068,
+        ns1:BBC.2069,
+        ns1:BBC.2070,
+        ns1:BBC.2071,
+        ns1:BBC.2072,
+        ns1:BBC.2073,
+        ns1:BBC.2074,
+        ns1:BBC.2075,
+        ns1:BBC.2076,
+        ns1:BBC.2077,
+        ns1:BBC.2078,
+        ns1:BBC.2079,
+        ns1:BBC.2080,
+        ns1:BBC.2081,
+        ns1:BBC.2083,
+        ns1:BBC.2084,
+        ns1:BBC.2085,
+        ns1:BBC.2086,
+        ns1:BBC.2087,
+        ns1:BBC.2088,
+        ns1:BBC.2090,
+        ns1:BBC.2091,
+        ns1:BBC.2092,
+        ns1:BBC.2093,
+        ns1:BBC.2094,
+        ns1:BBC.2096,
+        ns1:BBC.2097,
+        ns1:BBC.2098,
+        ns1:BBC.2099,
+        ns1:BBC.2100,
+        ns1:BBC.2101,
+        ns1:BBC.2102,
+        ns1:BBC.2103,
+        ns1:BBC.2104,
+        ns1:BBC.2105,
+        ns1:BBC.2106,
+        ns1:BBC.2107,
+        ns1:BBC.2108,
+        ns1:BBC.2109,
+        ns1:BBC.2110,
+        ns1:BBC.2112,
+        ns1:BBC.2113,
+        ns1:BBC.2114,
+        ns1:BBC.2115,
+        ns1:BBC.2116,
+        ns1:BBC.2117,
+        ns1:BBC.2118,
+        ns1:BBC.2119,
+        ns1:BBC.2120,
+        ns1:BBC.2121,
+        ns1:BBC.2122,
+        ns1:BBC.2123,
+        ns1:BBC.2124,
+        ns1:BBC.2125,
+        ns1:BBC.2126,
+        ns1:BBC.2129,
+        ns1:BBC.2130,
+        ns1:BBC.2131,
+        ns1:BBC.2132,
+        ns1:BBC.2133 .
+
+ns1:Animalia ns1:hasphylum ns1:Arthropoda .
+
+ns1:gbifID a owl:Class .
+
