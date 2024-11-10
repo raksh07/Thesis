@@ -1,0 +1,2315 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://example.org/merged_ontology.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://example.org/merged_ontology.owl">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#BCO_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000032"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000048"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000052"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000053"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000055"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000056"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000059"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000061"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000062"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000063"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000064"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000065"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000066"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000080"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000081"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BCO_0000084"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BFO_0000141"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CARO_0001010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CHEBI_16991"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CHEBI_33696"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CHEBI_33697"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CHEBI_33839"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CL_0000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CL_0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CL_0000236"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Class"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dataset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DbXref"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Definition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ENVO_01000744"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Event"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventAttribute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventDate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventMeasurement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FossilSpecimen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0003674"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0003824"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0003964"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0016301"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0016740"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0016772"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GO_0032991"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Genus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GeographicalLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GeologicalContext"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanObservation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000078"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000101"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000102"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000104"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000178"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000185"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000225"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000310"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_0000409"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IAO_8000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Identification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IdentifiedBy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kingdom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LivingSpecimen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MachineObservation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MaterialCitation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MaterialSample"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MeasurementOrFact"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_10239"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_117570"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_117571"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_131567"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_1338369"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_1437010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_207598"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_2157"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_2759"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_314146"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_314293"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_314295"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_32523"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_32524"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_32525"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_33154"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_33208"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_33213"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_33511"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_376913"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_40674"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_6072"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_7711"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_7742"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_7776"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_8287"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_89593"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_9347"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_9443"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_9526"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_9604"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_9605"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NCBITaxon_9606"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000067"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000070"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000079"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000094"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000112"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000185"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000245"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000272"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000419"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000441"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000453"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000639"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000659"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000671"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000678"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000681"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000684"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000740"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000744"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000806"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000811"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000832"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000845"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0000973"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0001010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0001108"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0001137"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0001573"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0001912"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0001933"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0002076"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0003024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0100010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0100026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0100051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0100060"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0400103"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0600005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0600024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0600036"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0600047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OBI_0666667"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ObsoleteClass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Occurrence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OccurrenceMeasurement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Order"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Organism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PCO_0000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PCO_0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PCO_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PCO_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PCO_0001000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PR_000000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Phylum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PreservedSpecimen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RecordedBy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ResourceRelationship"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SO_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sample"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SampleAttribute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SamplingEvent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SamplingLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ScientificName"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SpeciesKey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Subset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Synonym"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SynonymType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000012"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000029"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000032"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000035"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000036"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000037"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000038"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000039"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000041"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000045"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000048"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000049"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000050"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000052"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000053"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000055"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000056"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000057"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000058"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000059"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TAXRANK_0000060"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Taxon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TaxonKey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UBERON_0000465"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UBERON_0000477"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VocabularyEncodingScheme"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#all"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000021"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000022"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000023"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000024"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000025"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000026"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000029"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000032"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000035"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000036"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000037"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000038"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000039"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000042"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000043"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000045"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000080"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#bco_0000081"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#terms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#IAO_0000122"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#specimen_1838422417"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#BCO_0000003"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000016"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000025"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000031"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000032"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000042"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000044"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000046"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000047"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000048"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000051"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000052"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000053"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000054"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000055"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000056"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000059"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000061"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000062"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000063"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000064"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000065"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000066"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000080"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000081"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BCO_0000084"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000001"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000002"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000003"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000004"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000006"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000015"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000016"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000017"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000019"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000020"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000023"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000027"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000030"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000031"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000034"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000040"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BFO_0000141"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CARO_0001010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CHEBI_16991"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CHEBI_33696"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CHEBI_33697"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CHEBI_33839"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CL_0000000"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CL_0000010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CL_0000236"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Class"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dataset"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DbXref"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Definition"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ENVO_01000744"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Event"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventAttribute"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventDate"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventMeasurement"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Family"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FossilSpecimen"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0003674"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0003824"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0003964"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0016301"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0016740"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0016772"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GO_0032991"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Genus"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GeographicalLocation"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GeologicalContext"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanObservation"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000005"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000007"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000015"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000027"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000030"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000033"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000078"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000101"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000102"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000104"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000178"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000185"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000225"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000310"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_0000409"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000000"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000001"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000002"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000003"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000004"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000005"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000006"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000007"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000008"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000009"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000011"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000012"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000013"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000014"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000015"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000016"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000017"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000018"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000019"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IAO_8000020"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Identification"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IdentifiedBy"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kingdom"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LivingSpecimen"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Location"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MachineObservation"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MaterialCitation"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MaterialSample"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MeasurementOrFact"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_10239"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_117570"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_117571"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_131567"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_1338369"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_1437010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_2"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_207598"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_2157"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_2759"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_314146"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_314293"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_314295"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_32523"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_32524"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_32525"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_33154"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_33208"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_33213"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_33511"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_376913"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_40674"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_6072"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_7711"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_7742"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_7776"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_8287"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_89593"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_9347"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_9443"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_9526"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_9604"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_9605"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NCBITaxon_9606"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000011"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000047"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000067"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000070"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000079"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000094"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000112"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000185"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000245"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000272"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000419"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000441"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000453"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000639"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000659"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000671"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000678"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000681"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000684"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000740"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000744"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000806"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000811"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000832"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000845"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0000973"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0001010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0001108"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0001137"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0001573"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0001912"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0001933"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0002076"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0003024"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0100010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0100026"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0100051"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0100060"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0400103"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0600005"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0600024"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0600036"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0600047"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OBI_0666667"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ObsoleteClass"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Occurrence"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OccurrenceMeasurement"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Order"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Organism"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PCO_0000000"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PCO_0000024"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PCO_0000030"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PCO_0000031"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PCO_0001000"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PR_000000001"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Phylum"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PreservedSpecimen"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RecordedBy"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ResourceRelationship"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SO_0000001"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sample"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SampleAttribute"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SamplingEvent"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SamplingLocation"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ScientificName"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Species"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SpeciesKey"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Subset"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Synonym"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SynonymType"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000000"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000001"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000002"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000003"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000004"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000005"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000006"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000007"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000008"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000009"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000010"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000011"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000012"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000013"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000014"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000015"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000016"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000017"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000018"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000019"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000020"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000021"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000022"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000023"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000024"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000025"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000026"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000027"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000028"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000029"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000030"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000031"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000032"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000033"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000034"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000035"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000036"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000037"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000038"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000039"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000040"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000041"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000042"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000043"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000044"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000045"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000046"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000047"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000048"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000049"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000050"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000051"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000052"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000053"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000054"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000055"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000056"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000057"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000058"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000059"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TAXRANK_0000060"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Taxon"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TaxonKey"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thing"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UBERON_0000465"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UBERON_0000477"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VocabularyEncodingScheme"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#all"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000000"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000001"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000002"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000003"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000004"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000005"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000006"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000007"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000016"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000021"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000022"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000023"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000024"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000025"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000026"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000027"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000028"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000029"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000030"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000031"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000032"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000033"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000034"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000035"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000036"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000037"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000038"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000039"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000042"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000043"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000044"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000045"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000046"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000080"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#bco_0000081"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#terms"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#IAO_0000078"/>
+        <NamedIndividual IRI="#IAO_0000122"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Species"/>
+        <NamedIndividual IRI="#specimen_1838422417"/>
+    </ClassAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
